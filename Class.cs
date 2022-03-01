@@ -9,5 +9,5 @@ public class Class1
 		// This Comment from Another branch 
 	}
 
-	public task = 'from Another branch  to check the cjanges reflect';
+	public task = 'from Another branch  to check the changes reflect';
 }
